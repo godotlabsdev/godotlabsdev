@@ -10,6 +10,6 @@ Right now I'm focused on:
 ## Explore
 - Website: https://godotlabs.com  
 - Playable demo: https://godotlabs.itch.io/tactical-rpg-framework-demo-godot  
-- Framework repo: https://github.com/godotlabs/godot-tactical-rpg-framework  
+- Framework repo: https://github.com/godotlabsdev/godot-tactical-rpg-framework  
 
 If you're also working on SRPG-style systems, feel free to take a look around.
