@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jason
 
-<!--
-**godotlabsdev/godotlabsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building tactical RPG systems in Godot through GodotLabs.
 
-Here are some ideas to get you started:
+Right now I'm focused on:
+- a reusable tactical RPG framework
+- structured build and architecture courses
+- playable demos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Explore
+- Website: https://godotlabs.com  
+- Playable demo: https://godotlabs.itch.io/tactical-rpg-framework-demo-godot  
+- Framework repo: https://github.com/godotlabs/godot-tactical-rpg-framework  
+
+If you're also working on SRPG-style systems, feel free to take a look around.
